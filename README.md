@@ -18,15 +18,21 @@ Throughout this guide, replace `GHSA-xxxx-xxxx-xxxx` with one of your assigned a
 * Click "Create codespace on main".
 * Answer "yes" whenever asked if you trust the files in the folder.
 
-### Setup copilot
+## Setup copilot
 
 * Type `copilot` in the terminal window to start a CLI session.
-* Type `/skills list` to check that it's working.
-* You can click the `+` button to start more terminals.
+* Type "hello" to check that it's working.
 
 ## View security tab
 
 Open https://github.com/ghunitru1623s01/REPONAME/security in a separate browser tab.
+
+# Security Basics
+
+* Enable 
+
+
+
 
 
 
@@ -88,7 +94,7 @@ not permission for the triage agent to modify GitHub data.
 
 ## 1. Write a security policy
 
-Check for an existing `.github/SECURITY.md` first; GitHub gives it precedence
+Check for an existing `SECURITY.md` first; GitHub gives it precedence
 over root `SECURITY.md`, followed by `docs/SECURITY.md`. Update the applicable
 existing policy, or create `SECURITY.md` at the repository root if none exists.
 Use the security-policy slide as your checklist and keep the conventional
