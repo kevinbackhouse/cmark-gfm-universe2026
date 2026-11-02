@@ -1,3 +1,12 @@
+# GitHub Universe 2026 - template repo
+
+This is the source repository that we used for our sandbox session at GitHub Universe 2026:
+
+* Title: "Drowning in AI-generated vulnerability reports? Here's how to stay afloat"
+* Presenters: @kevinbackhouse, @kwstubbs
+
+Each participant was given access to a clone of this repo. PVR was enabled on their repos and we had submitted several (fake) vulnerability reports to them.
+
 # Warmup Game!
 
 Join [Buzzin.Live](https://buzzin.live/) with facilitator code!
